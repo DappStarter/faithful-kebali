@@ -1,0 +1,8 @@
+{
+    "name": "Test",
+    "blocks": {
+        "/blockchain/conflux": true,
+        "/blockchain/conflux/solidity": true,
+        "/framework/vanilla": true
+    }
+}
